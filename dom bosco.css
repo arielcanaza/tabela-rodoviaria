@@ -1,0 +1,18 @@
+
+
+table {
+    
+    background-color: gray; /*cor de fundo*/
+    
+    text-align: center; /*alinhando texto ao centro*/
+    }
+
+    tr { color: white;
+         
+    }
+    
+    .red{background-color: red;}
+  
+    .ca{color: black;}
+    .ca{background-color: green;}
+    .ho{color: black;}
